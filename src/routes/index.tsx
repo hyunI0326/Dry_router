@@ -50,7 +50,7 @@ function Index() {
  return <div className="app-shell">
   <header className="topbar"><a href="/" className="brand"><span className="brand-symbol"><RouteIcon size={23}/></span>ROUTER<span className="brand-divider"/><span className="brand-tagline">비를 피하는 길, 더 좋은 길.</span></a><div className="topbar-right"><span className="area-label"><MapPin size={14}/> 경복궁역 — 서울역</span><span className="demo-badge">OSM 보행로 {walkAudit.walkable.toLocaleString()}</span></div></header>
   <main className="workspace"><aside className="sidebar">
-    <div className="search-section"><div className="section-eyebrow"><span className="status-dot"/> 날씨와 공간을 잇다</div><h1>서울 도심의<br/>비 피할 곳.</h1><p className="subheading">보행로 {walkAudit.walkable.toLocaleString()}개 연결 · 위치 {counts.total.toLocaleString()}곳</p>
+    <div className="search-section"><div className="section-eyebrow"><span className="status-dot"/> 날씨와 공간을 잇다</div><h1>서울 도심의{' '}<br/>비 피할 곳.</h1><p className="subheading">보행로 {walkAudit.walkable.toLocaleString()}개 연결 · 위치 {counts.total.toLocaleString()}곳</p>
     <form onSubmit={e => {
       e.preventDefault();
       const minutes = new FormData(e.currentTarget).get('detour-minutes');

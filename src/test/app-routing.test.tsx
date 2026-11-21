@@ -19,6 +19,15 @@ describe("App routing", () => {
     expect(matches.at(-1)?.routeId).not.toBe(rootRouteId);
   });
 
+  it("keeps a space in the home page title when the line break is hidden", async () => {
+    const Page = Route.options.component;
+    if (!Page) throw new Error("missing route page");
+    render(<Page />);
+    await waitFor(() => expect(screen.queryByText("지도를 불러오는 중…")).toBeNull());
+
+    expect(screen.getByRole("heading", { level: 1 })).toHaveTextContent("서울 도심의 비 피할 곳.");
+  });
+
   it("applies the detour time when the user searches again", async () => {
     const Page = Route.options.component;
     if (!Page) throw new Error("missing route page");
