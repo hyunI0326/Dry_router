@@ -1,0 +1,6924 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-11-20T22:13:22Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/355173362",
+      "properties": {
+        "@id": "node/355173362",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9768292,
+          37.5758687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357821019",
+      "properties": {
+        "@id": "node/357821019",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "숭례문.남대문시장8번출입구",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "3;402;14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9760992,
+          37.5586209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357821021",
+      "properties": {
+        "@id": "node/357821021",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "백범광장",
+        "name:en": "Baekbeom Plaza",
+        "name:ja": "白凡広場",
+        "name:ko": "백범광장",
+        "name:ko-Latn": "Baekbeomgwangjang",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "3;402;14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97997,
+          37.55573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357821103",
+      "properties": {
+        "@id": "node/357821103",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "서린동.SK서린빌딩",
+        "name:en": "Mugyodong",
+        "name:ja": "武橋洞",
+        "name:ko-Latn": "Mugyodong",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "100;7018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.980266,
+          37.5693238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357821885",
+      "properties": {
+        "@id": "node/357821885",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "남대문시장앞.이희영활동터",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "105;149;152;151;262;162;500;201;163;202;704;261;15;9411;7023;9502;7021;406;701;7017;7022;103;505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9783321,
+          37.5609784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357825275",
+      "properties": {
+        "@id": "node/357825275",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "북창동.남대문시장",
+        "name:en": "Bukchangdong",
+        "name:ja": "北倉洞",
+        "name:ko": "북창동.남대문시장",
+        "name:ko-Latn": "Bukchangdong",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "02-127",
+        "route_ref": "7021;702;702;701;7017;15;708",
+        "route_ref_1": "143;149;151;152;162;163;",
+        "route_ref_2": "201;202;262;261;500;501;506;",
+        "shelter": "no",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9781526,
+          37.5611702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357825296",
+      "properties": {
+        "@id": "node/357825296",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "남산3호터널",
+        "name:en": "Namsan No.3 Tunnel",
+        "name:ja": "南山3号トンネル",
+        "name:ko": "남산3호터널",
+        "name:ko-Latn": "Namsan 3 Hoteoneol",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "143;406;401;3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9827948,
+          37.5584705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357825703",
+      "properties": {
+        "@id": "node/357825703",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "남산3호터널.정화예술대학교",
+        "name:en": "Namsan 3 Ho Tunnel",
+        "name:ja": "南山3号トンネル",
+        "name:ko-Latn": "Namsan 3 Hoteoneol",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "143;406;401",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9827266,
+          37.5590402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357828157",
+      "properties": {
+        "@id": "node/357828157",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "롯데백화점",
+        "name:en": "Lotte Dept. Store",
+        "name:ja": "ロッテ百貨店",
+        "name:ko": "롯데백화점",
+        "name:ko-Latn": "Rotdebaekhwajeom",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "151;261;262;7017;143;501;702;701;702;708;152;500;202;14;7021",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9822156,
+          37.5644428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357828316",
+      "properties": {
+        "@id": "node/357828316",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "광화문역7번출구",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref_1": "160;161;260;270;273;370;",
+        "route_ref_2": "7023;720;471;470;704",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9756847,
+          37.570323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357828926",
+      "properties": {
+        "@id": "node/357828926",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "안국동",
+        "name:en": "Angukdong",
+        "name:ko": "안국동",
+        "name:ko-Latn": "Angukdong",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "162;606;708;1020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.98269,
+          37.57458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357829625",
+      "properties": {
+        "@id": "node/357829625",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "시청역11번출구",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "172;472;600;602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.975413,
+          37.5636425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357829629",
+      "properties": {
+        "@id": "node/357829629",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "조계사.종로경찰서",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "172;708;1020;151;162;606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.982965,
+          37.5722457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357830753",
+      "properties": {
+        "@id": "node/357830753",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "숭례문",
+        "name:en": "Sungnyemun",
+        "name:ja": "崇禮門",
+        "name:ko": "숭례문",
+        "name:ko-Latn": "Sungnyemun",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9736829,
+          37.5584008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357832253",
+      "properties": {
+        "@id": "node/357832253",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "염천교",
+        "name:en": "Yeomcheongyo",
+        "name:ko": "염천교",
+        "name:ko-Latn": "Yeomcheongyo",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "163;261;262;463;604;N16;7011;7013A;7013B;7017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9733271,
+          37.5597935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357838903",
+      "properties": {
+        "@id": "node/357838903",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "숭례문",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "02-121",
+        "route_ref": "406;505;704;15;503;402;103;105;261;7022;7023;7017;7021;143;149;14;500;504;152;151;162;7013;163;202;201;262;701",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9741214,
+          37.5586169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357840245",
+      "properties": {
+        "@id": "node/357840245",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "북창동.소공동주민센터건너",
+        "name:en": "City Hall Front",
+        "name:ja": "市庁前",
+        "name:ko": "북창동.소공동주민센터건너",
+        "name:ko-Latn": "Sicheongap",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "02128",
+        "route_ref": "402;7016;1711;109;15;708;706;150;506;501;502",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.976421,
+          37.5620437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357840300",
+      "properties": {
+        "@id": "node/357840300",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "남산도서관.용산도서관",
+        "name:en": "Namsan Library",
+        "name:ja": "南山図書館",
+        "name:ko": "남산도서관.용산도서관",
+        "name:ko-Latn": "Namsandoseogwan",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "03168",
+        "route_ref": "402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9811638,
+          37.5521429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357843504",
+      "properties": {
+        "@id": "node/357843504",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "남대문시장",
+        "name:en": "Namdaemun Market",
+        "name:ja": "南大門市場",
+        "name:ko": "남대문시장",
+        "name:ko-Latn": "Namdaemunsijang",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "505;504;507;211;13;263;104;604;503;14;7011;7013;105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97763,
+          37.55817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357843903",
+      "properties": {
+        "@id": "node/357843903",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "신세계백화점",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "503;406;9502;14;505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9816154,
+          37.5608337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357844297",
+      "properties": {
+        "@id": "node/357844297",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "남대문시장",
+        "name:en": "Namdaemun Market",
+        "name:ja": "南大門市場",
+        "name:ko": "남대문시장",
+        "name:ko-Latn": "Namdaemunsijang",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "504;143;7013;3;401;503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9798678,
+          37.5612987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357848603",
+      "properties": {
+        "@id": "node/357848603",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "경복궁",
+        "name:en": "Gyeongbokgung",
+        "name:ja": "景福宮",
+        "name:ko": "경복궁",
+        "name:ko-Latn": "Gyeongbokgung",
+        "name:zh": "景福宫",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "01117",
+        "route_ref": "606;708;1020;109;171;7025;601;272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9788479,
+          37.5756291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357848614",
+      "properties": {
+        "@id": "node/357848614",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "사직단.사직근린공원",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "606;601;7025;272;708;171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9681098,
+          37.5748513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357848669",
+      "properties": {
+        "@id": "node/357848669",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "종로1가",
+        "name:en": "Jongno 1 Ga(Street)",
+        "name:ja": "鍾路1街",
+        "name:ko": "종로1가",
+        "name:ko-Latn": "Jongno 1 Ga",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "606;601;9411;150;9401",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.98139,
+          37.57034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357849528",
+      "properties": {
+        "@id": "node/357849528",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "서울역11번출구",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "03198",
+        "route_ref": "605;15;8099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9737933,
+          37.553639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357850527",
+      "properties": {
+        "@id": "node/357850527",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "한국경제신문사.서소문역사공원",
+        "name:en": "The Korea Economic Daily",
+        "name:ja": "韓国経済新聞社",
+        "name:ko-Latn": "Hangukgyeongjesinmunsa",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "603;7017;7011;7013;211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9680968,
+          37.5604724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357854786",
+      "properties": {
+        "@id": "node/357854786",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "새문안교회",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "470;601",
+        "shelter": "no",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9727934,
+          37.5702435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357857027",
+      "properties": {
+        "@id": "node/357857027",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "서울신문사",
+        "name:en": "Seoul Sinmunsa",
+        "name:ja": "ソウル新聞社",
+        "name:ko": "서울신문사",
+        "name:ko-Latn": "Seoulsinmunsa",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "708;1711;14;15;7016",
+        "route_ref_1": "109;150;402;501;506;",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9773065,
+          37.568504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357857875",
+      "properties": {
+        "@id": "node/357857875",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "경복궁역",
+        "name:en": "Gyeongbokgung Station",
+        "name:ja": "景福宮駅",
+        "name:ko": "경복궁역",
+        "name:ko-Latn": "Gyeongbokgungyeok",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "212;1020;1711;7016;7018;7022",
+        "shelter": "no",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97242,
+          37.57717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357858128",
+      "properties": {
+        "@id": "node/357858128",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "시청서소문2청사",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "211;603;472;172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9749678,
+          37.5632946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357858181",
+      "properties": {
+        "@id": "node/357858181",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "소공동주민센터.삼성본관",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "211;406;7022;150;603;15;1711;7019",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9760246,
+          37.5622296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357860207",
+      "properties": {
+        "@id": "node/357860207",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "을지로입구.시청입구",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "15;472;172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9810054,
+          37.5660824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357860222",
+      "properties": {
+        "@id": "node/357860222",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "후암삼거리",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "03199",
+        "route_ref": "15;605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9766101,
+          37.5525259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357860498",
+      "properties": {
+        "@id": "node/357860498",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "을지로입구역.광교",
+        "name:en": "Euljiro Entrance Yeokgwanggyo",
+        "name:ko": "을지로입구역광교",
+        "name:ko-Latn": "Euljiroipguyeokgwanggyo",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "02246",
+        "route_ref": "15;162;163;506;201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.98243,
+          37.56739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357860725",
+      "properties": {
+        "@id": "node/357860725",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "서울역서부",
+        "name:en": "Seobu Station",
+        "name:ja": "西部駅(ソウル駅西側)",
+        "name:ko-Latn": "Seobuyeok",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "15;7024;16;262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.96934,
+          37.5562718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357860727",
+      "properties": {
+        "@id": "node/357860727",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "서계동.서울역공항철도15번출구",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "03124",
+        "route_ref": "15;503;262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9693404,
+          37.5524743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357860791",
+      "properties": {
+        "@id": "node/357860791",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "남산도서관.용산도서관",
+        "name:en": "Namsan Public Library",
+        "name:ja": "南山図書館",
+        "name:ko": "남산도서관.용산도서관",
+        "name:ko-Latn": "Namsandoseogwan",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "03167",
+        "route_ref": "14;3;2;402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9808511,
+          37.5522267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357860832",
+      "properties": {
+        "@id": "node/357860832",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "숭례문남산방향",
+        "name:en": "Sungnyemunnamsanbanghyang",
+        "name:ja": "崇礼門南山方面",
+        "name:ko": "숭례문남산방향",
+        "name:ko-Latn": "Sungnyemunnamsanbanghyang",
+        "name:zh": "崇礼门南山方向",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "14;402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9758293,
+          37.5585863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357861028",
+      "properties": {
+        "@id": "node/357861028",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "후암삼거리",
+        "name:ko": "후암삼거리",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "02120",
+        "route_ref": "15;202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9758985,
+          37.5534505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357870113",
+      "properties": {
+        "@id": "node/357870113",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "통인시장종로구보건소",
+        "name:en": "Tongin Market Jongnogu Public Health Center",
+        "name:ko": "통인시장종로구보건소",
+        "name:ko-Latn": "Tonginsijangjongnogubogeonso",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "1711;7018;1020;212;7016;7022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9710529,
+          37.5803635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357870241",
+      "properties": {
+        "@id": "node/357870241",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "통인시장종로구보건소",
+        "name:en": "Tongin Market Jongnogu Public Health Center",
+        "name:ja": "通仁市場鐘路区保健所",
+        "name:ko": "통인시장종로구보건소",
+        "name:ko-Latn": "Tonginsijangjongnogubogeonso",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "1711;7018;7016;212;1020;7022",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9713075,
+          37.5804946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357918817",
+      "properties": {
+        "@id": "node/357918817",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "광화문역6번출구",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "7019;600;602",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9758469,
+          37.5699826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357919306",
+      "properties": {
+        "@id": "node/357919306",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "숭례문.한국일보",
+        "name:en": "Sungnyemun.Hankook Ilbo",
+        "name:ko": "숭례문.한국일보",
+        "name:zh": "崇禮門.韓國日報",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9737419,
+          37.5587832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357919344",
+      "properties": {
+        "@id": "node/357919344",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "명동.롯데영플라자",
+        "name:en": "Lotte Yeong Plaza",
+        "name:ko": "명동.롯데영플라자",
+        "name:ko-Latn": "Rotdeyeongpeuraja",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "02142",
+        "route_ref": "7021;103;7017;15;701;500;401;163;261;149;262;151;143;162;105;202;406;201;152",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9819282,
+          37.562882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357920651",
+      "properties": {
+        "@id": "node/357920651",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "적선동",
+        "name:en": "Jeokseondong",
+        "name:ko": "적선동",
+        "name:ko-Latn": "Jeokseondong",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "7016;7018;1711;212;7022;1020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.972211,
+          37.5768997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357933209",
+      "properties": {
+        "@id": "node/357933209",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "서울의료보건고등학교.서울역서부",
+        "name:en": "Gyeonggiyeosang Entrance",
+        "name:ko-Latn": "Gyeonggiyeosangipgu",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "8001;163",
+        "shelter": "no",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.96884,
+          37.5555665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357945809",
+      "properties": {
+        "@id": "node/357945809",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "중림동교차로",
+        "name:en": "Seobu Station",
+        "name:ko-Latn": "Seobuyeok",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "7024;163;15;262;261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9691976,
+          37.55836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357947140",
+      "properties": {
+        "@id": "node/357947140",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "덕성여중고",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "01130",
+        "route_ref": "7023;7022;406;272;109;704;7025",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9821446,
+          37.5757387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357947374",
+      "properties": {
+        "@id": "node/357947374",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "세종문화회관",
+        "name:en": "Sejong Cultural Center",
+        "name:ja": "世宗文化会館",
+        "name:ko": "세종문화회관",
+        "name:ko-Latn": "Sejongmunhwahoegwan",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "7022;7023;7016;7018;1711;212;704;402;406;109;150;103;401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9769697,
+          37.5735987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357947475",
+      "properties": {
+        "@id": "node/357947475",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "우리은행종로지점",
+        "name:en": "Uri Bank Jongnojijeom",
+        "name:ja": "ウリ銀行 鐘路支店",
+        "name:ko": "우리은행종로지점",
+        "name:ko-Latn": "Urieunhaengjongnojijeom",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "02139",
+        "route_ref": "7022;701;7017;7023;704;7021",
+        "route_ref_1": "103;143;151;162;163;172;401;406;262;201",
+        "shelter": "no",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9828374,
+          37.5676958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357950023",
+      "properties": {
+        "@id": "node/357950023",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "숭례문",
+        "name:en": "Sungnyemun",
+        "name:ko": "숭례문",
+        "name:zh": "崇禮門",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "9701;9702;9708;9713;9709;9706",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9734972,
+          37.5584981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357950030",
+      "properties": {
+        "@id": "node/357950030",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "소공동.롯데영플라자",
+        "name:en": "Sogong-dong.Lotte Young Plaza",
+        "name:ko": "소공동.롯데영플라자",
+        "name:ko-Latn": "Haeunsentarotdeyeongpeuraja",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "02141",
+        "route_ref": "9701;163;162;149;506;15;201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9816087,
+          37.5627118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357950644",
+      "properties": {
+        "@id": "node/357950644",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "광화문역2번출구.KT광화문지사",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "서울01118",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9773858,
+          37.5723051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357953268",
+      "properties": {
+        "@id": "node/357953268",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "경찰청.동북아역사재단",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "9708;9713;702;701;702;750;751;752;703;7019;7021;7024;9706",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.96914,
+          37.56296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357954189",
+      "properties": {
+        "@id": "node/357954189",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "숭례문",
+        "name:en": "Sungnyemun",
+        "name:ja": "崇礼門",
+        "name:ko": "숭례문",
+        "name:ko-Latn": "Sungnyemun",
+        "name:zh": "崇礼门",
+        "name:zh-Hans": "崇礼门",
+        "name:zh-Hant": "崇禮門",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "9502;9703;9411;9710;9401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9755816,
+          37.559531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357954206",
+      "properties": {
+        "@id": "node/357954206",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "남대문시장",
+        "name:en": "Namdaemun Market",
+        "name:ja": "南大門市場",
+        "name:ko": "남대문시장",
+        "name:ko-Latn": "Namdaemunsijang",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "9502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97656,
+          37.55767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357956574",
+      "properties": {
+        "@id": "node/357956574",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "check_date:shelter": "2023-05-17",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "광화문",
+        "name:en": "Gwanghwamun",
+        "name:ja": "光化門",
+        "name:ko": "광화문",
+        "name:ko-Latn": "Gwanghwamun",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "9602;9710",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9755473,
+          37.5703108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357956583",
+      "properties": {
+        "@id": "node/357956583",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "세종문화회관",
+        "name:en": "Sejong Cultural Center",
+        "name:ja": "世宗文化会館",
+        "name:ko-Latn": "Sejongmunhwahoegwan",
+        "name:zh": "世宗文化会馆",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "9602;9600;9411;9708;9713;9401;9706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9769705,
+          37.5732879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357963246",
+      "properties": {
+        "@id": "node/357963246",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "광화문",
+        "name:en": "Gwanghwamun",
+        "name:ko": "광화문",
+        "name:ko-Latn": "Gwanghwamun",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97379,
+          37.5703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357963471",
+      "properties": {
+        "@id": "node/357963471",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "서울경찰청.경복궁역1번출구",
+        "name:en": "Gyeongbokgung Station Exit 1",
+        "name:ko": "서울경찰청.경복궁역1번출구",
+        "name:ko-Latn": "Gyeongbokgungyeok",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "01114",
+        "route_ref": "602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9715703,
+          37.5761857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357963543",
+      "properties": {
+        "@id": "node/357963543",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "경복궁역",
+        "name:en": "Gyeongbokgung Station",
+        "name:ko": "경복궁역",
+        "name:ko-Latn": "Gyeongbokgungyeok",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9718202,
+          37.5758091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357965416",
+      "properties": {
+        "@id": "node/357965416",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "시청덕수궁",
+        "name:en": "City Hall Deoksugung",
+        "name:ja": "市庁徳寿宮",
+        "name:ko": "시청덕수궁",
+        "name:ko-Latn": "Sicheongdeoksugung",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "605",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9770185,
+          37.5654578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357965426",
+      "properties": {
+        "@id": "node/357965426",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "서울역",
+        "name:en": "Seoul Station",
+        "name:ko": "서울역",
+        "name:ko-Latn": "Seoulyeok",
+        "name:zh": "首尔站",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "605",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9728782,
+          37.557766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357965458",
+      "properties": {
+        "@id": "node/357965458",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "광화문",
+        "name:en": "Gwanghwamun",
+        "name:ja": "光化門",
+        "name:ko": "광화문",
+        "name:ko-Latn": "Gwanghwamun",
+        "name:zh": "光化门",
+        "name:zh-Hans": "光化门",
+        "name:zh-Hant": "光化門",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9769657,
+          37.5689082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357965714",
+      "properties": {
+        "@id": "node/357965714",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "회현역",
+        "name:en": "Hoehyeon Station",
+        "name:ja": "会賢駅",
+        "name:ko": "회현역",
+        "name:ko-Latn": "Hoehyeonyeok",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97671,
+          37.55772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357966323",
+      "properties": {
+        "@id": "node/357966323",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "광화문역6번출구.광화문빌딩",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "9713;9708;9706;9702;9600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9769128,
+          37.5694774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357968796",
+      "properties": {
+        "@id": "node/357968796",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "서울역사박물관",
+        "name:en": "Seoul History Museum",
+        "name:ja": "ソウル歴史博物館",
+        "name:ko": "서울역사박물관",
+        "name:ko-Latn": "Seoulyeoksabangmulgwan",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "01250",
+        "route_ref": "9709",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9721,
+          37.56988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1553878333",
+      "properties": {
+        "@id": "node/1553878333",
+        "description": "종각역 6번출구",
+        "description:en": "Jonggak Station gate 6",
+        "description:ja": "鐘閣駅 6番出口",
+        "railway": "subway_entrance",
+        "ref": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9823785,
+          37.5699147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1555198917",
+      "properties": {
+        "@id": "node/1555198917",
+        "description": "종각역 5번출구",
+        "description:en": "Jonggak Station gate 5",
+        "description:ja": "鐘閣駅 5番出口",
+        "railway": "subway_entrance",
+        "ref": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9825908,
+          37.569798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1919857605",
+      "properties": {
+        "@id": "node/1919857605",
+        "addr:city": "서울특별시",
+        "addr:district": "중구",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9738775,
+          37.5658861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1936511486",
+      "properties": {
+        "@id": "node/1936511486",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9737657,
+          37.5643453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2419990436",
+      "properties": {
+        "@id": "node/2419990436",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9689357,
+          37.5784202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2419990502",
+      "properties": {
+        "@id": "node/2419990502",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9684948,
+          37.5788218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2449019602",
+      "properties": {
+        "@id": "node/2449019602",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.977482,
+          37.5764971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2463675171",
+      "properties": {
+        "@id": "node/2463675171",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9725346,
+          37.566624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2841429249",
+      "properties": {
+        "@id": "node/2841429249",
+        "entrance": "yes",
+        "foot": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9763162,
+          37.5786851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3031694838",
+      "properties": {
+        "@id": "node/3031694838",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9693237,
+          37.5730486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3063260476",
+      "properties": {
+        "@id": "node/3063260476",
+        "access": "yes",
+        "entrance": "yes",
+        "ref": "2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9778934,
+          37.5691283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3217915178",
+      "properties": {
+        "@id": "node/3217915178",
+        "description": "회현역(남대문시장) 7번출구",
+        "description:en": "Hoehyeon Station gate 7",
+        "description:ja": "会賢駅 7番出口",
+        "railway": "subway_entrance",
+        "ref": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9796431,
+          37.5595146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3389084156",
+      "properties": {
+        "@id": "node/3389084156",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9768797,
+          37.5729275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3390511097",
+      "properties": {
+        "@id": "node/3390511097",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9715472,
+          37.5545885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3390512293",
+      "properties": {
+        "@id": "node/3390512293",
+        "description": "서울역 1번출구 (GTX-A)",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9717005,
+          37.555049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3390524793",
+      "properties": {
+        "@id": "node/3390524793",
+        "description": "서울역 9-1출구",
+        "railway": "subway_entrance",
+        "ref": "9-1",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97275,
+          37.5549458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067542",
+      "properties": {
+        "@id": "node/3403067542",
+        "description": "회현역(남대문시장) 1번출구",
+        "description:en": "Hoehyeon Station gate 1",
+        "description:ja": "会賢駅 1番出口",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9798359,
+          37.5592389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067544",
+      "properties": {
+        "@id": "node/3403067544",
+        "description": "회현역(남대문시장) 6번출구",
+        "description:en": "Hoehyeon Station gate 6",
+        "description:ja": "会賢駅 6番出口",
+        "railway": "subway_entrance",
+        "ref": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9792715,
+          37.5593979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067546",
+      "properties": {
+        "@id": "node/3403067546",
+        "description": "회현역(남대문시장) 2번출구",
+        "description:en": "Hoehyeon Station gate 2",
+        "description:ja": "会賢駅 2番出口",
+        "railway": "subway_entrance",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9794376,
+          37.5591192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067548",
+      "properties": {
+        "@id": "node/3403067548",
+        "description": "회현역 5번출구",
+        "description:en": "Hoehyeon Station gate 5",
+        "description:ja": "会賢駅 5番出口",
+        "railway": "subway_entrance",
+        "ref": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9773346,
+          37.5579631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067549",
+      "properties": {
+        "@id": "node/3403067549",
+        "description": "회현역 4번출구",
+        "description:en": "Hoehyeon Station gate 4",
+        "description:ja": "会賢駅 4番出口",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9775039,
+          37.5577715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067551",
+      "properties": {
+        "@id": "node/3403067551",
+        "description": "회현역 3번출구",
+        "description:en": "Hoehyeon Station gate 3",
+        "description:ja": "会賢駅 3番出口",
+        "railway": "subway_entrance",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9778901,
+          37.5580171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067552",
+      "properties": {
+        "@id": "node/3403067552",
+        "description": "서울역 3번출구",
+        "railway": "subway_entrance",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9727395,
+          37.5576617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067553",
+      "properties": {
+        "@id": "node/3403067553",
+        "description": "서울역 4번출구",
+        "railway": "subway_entrance",
+        "ref": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9730606,
+          37.5573942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067554",
+      "properties": {
+        "@id": "node/3403067554",
+        "description": "서울역 5번출구",
+        "railway": "subway_entrance",
+        "ref": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9729825,
+          37.5570631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067555",
+      "properties": {
+        "@id": "node/3403067555",
+        "description": "서울역 7번출구",
+        "railway": "subway_entrance",
+        "ref": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9735882,
+          37.5566525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067556",
+      "properties": {
+        "@id": "node/3403067556",
+        "description": "서울역 6번출구",
+        "railway": "subway_entrance",
+        "ref": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9732636,
+          37.5567434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067557",
+      "properties": {
+        "@id": "node/3403067557",
+        "description": "서울역 8번출구",
+        "railway": "subway_entrance",
+        "ref": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9734463,
+          37.5561548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067558",
+      "properties": {
+        "@id": "node/3403067558",
+        "description": "서울역 9번출구",
+        "railway": "subway_entrance",
+        "ref": "9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9732615,
+          37.5559318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067559",
+      "properties": {
+        "@id": "node/3403067559",
+        "description": "서울역 2번출구 (1호선)",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.972089,
+          37.5562533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067560",
+      "properties": {
+        "@id": "node/3403067560",
+        "description": "서울역 10번출구",
+        "railway": "subway_entrance",
+        "ref": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.973764,
+          37.5540661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067562",
+      "properties": {
+        "@id": "node/3403067562",
+        "description": "서울역 11번출구",
+        "railway": "subway_entrance",
+        "ref": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9731169,
+          37.5534432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067563",
+      "properties": {
+        "@id": "node/3403067563",
+        "description": "서울역 14번출구",
+        "railway": "subway_entrance",
+        "ref": "14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9724576,
+          37.5535727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067564",
+      "properties": {
+        "@id": "node/3403067564",
+        "railway": "subway_entrance",
+        "ref": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9727341,
+          37.5525112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067565",
+      "properties": {
+        "@id": "node/3403067565",
+        "railway": "subway_entrance",
+        "ref": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9722992,
+          37.5526333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403067566",
+      "properties": {
+        "@id": "node/3403067566",
+        "description": "서울역 15번출구",
+        "description:en": "Seoul Station gate 15",
+        "description:ja": "ソウル駅 15番出口",
+        "railway": "subway_entrance",
+        "ref": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9692775,
+          37.5534566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403193749",
+      "properties": {
+        "@id": "node/3403193749",
+        "description": "광화문역 3번출구",
+        "description:en": "Gwanghwamun Station gate 3",
+        "description:ja": "光化門駅 3番出口",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9775669,
+          37.5712694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403193750",
+      "properties": {
+        "@id": "node/3403193750",
+        "description": "광화문역 4번출구",
+        "description:en": "Gwanghwamun Station Exit 4",
+        "description:ja": "光化門駅 4番出口",
+        "description:ko": "광화문역 4번 출구",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9774533,
+          37.5707041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403193751",
+      "properties": {
+        "@id": "node/3403193751",
+        "description": "광화문역 5번출구",
+        "description:en": "Gwanghwamun Station gate 5",
+        "description:ja": "光化門駅 5番出口",
+        "railway": "subway_entrance",
+        "ref": "5",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9774219,
+          37.5698233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403193752",
+      "properties": {
+        "@id": "node/3403193752",
+        "description": "광화문역 6번출구",
+        "description:en": "Gwanghwamun Station gate 6",
+        "description:ja": "光化門駅 6番出口",
+        "description:ko": "광화문역 6번출구",
+        "railway": "subway_entrance",
+        "ref": "6",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9766147,
+          37.5697957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403193753",
+      "properties": {
+        "@id": "node/3403193753",
+        "description": "광화문역 7번출구",
+        "description:en": "Gwanghwamun Station gate 7",
+        "description:ja": "光化門駅 7番出口",
+        "description:ko": "광화문역 7번 출구",
+        "railway": "subway_entrance",
+        "ref": "7",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9765102,
+          37.5704724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403193754",
+      "properties": {
+        "@id": "node/3403193754",
+        "description": "광화문역 1번출구",
+        "description:en": "Gwanghwamun Station gate 1",
+        "description:ja": "光化門駅 1番出口",
+        "railway": "subway_entrance",
+        "ref": "1",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9748938,
+          37.5718764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403193755",
+      "properties": {
+        "@id": "node/3403193755",
+        "description": "광화문역 8번출구",
+        "description:en": "Gwanghwamun Station gate 8",
+        "description:ja": "光化門駅 8番出口",
+        "railway": "subway_entrance",
+        "ref": "8",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9751526,
+          37.5717149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403538911",
+      "properties": {
+        "@id": "node/3403538911",
+        "description": "경복궁역 1번출구",
+        "description:en": "Gyeongbokgung Station Exit1",
+        "description:ja": "景福宮駅 1番出口",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9721974,
+          37.5762007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403538914",
+      "properties": {
+        "@id": "node/3403538914",
+        "description": "경복궁역 3번출구",
+        "description:en": "Gyeongbokgung Station Exit3",
+        "description:ja": "景福宮駅 3番出口",
+        "railway": "subway_entrance",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9726844,
+          37.5762348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403538916",
+      "properties": {
+        "@id": "node/3403538916",
+        "description": "경복궁역 6번출구",
+        "description:en": "Gyeongbokgung Station Exit6",
+        "description:ja": "景福宮駅 6番出口",
+        "railway": "subway_entrance",
+        "ref": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9731597,
+          37.5756332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3403538917",
+      "properties": {
+        "@id": "node/3403538917",
+        "description": "경복궁역 5번출구",
+        "description:en": "Gyeongbokgung Station Exit 5",
+        "description:ja": "景福宮駅 5番出口",
+        "railway": "subway_entrance",
+        "ref": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.975494,
+          37.576276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404901184",
+      "properties": {
+        "@id": "node/3404901184",
+        "description": "을지로입구역 1번 출구",
+        "description:en": "Euljiro 1(il)-ga Station gate 1",
+        "description:ja": "乙支路入口駅 1番 出口",
+        "description:ko": "을지로입구역 1번 출구",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9821369,
+          37.5662726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404901185",
+      "properties": {
+        "@id": "node/3404901185",
+        "description": "을지로입구역 2번 출구",
+        "description:en": "Euljiro 1(il)-ga Station gate 2",
+        "description:ja": "乙支路入口駅 2番 出口",
+        "description:ko": "을지로입구역 2번 출구",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9823094,
+          37.5664058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404901189",
+      "properties": {
+        "@id": "node/3404901189",
+        "description": "을지로입구역 6번 출구",
+        "description:en": "Euljiro 1(il)-ga Station gate 6",
+        "description:ja": "乙支路入口駅 6番 出口",
+        "description:ko": "을지로입구역 6번 출구",
+        "railway": "subway_entrance",
+        "ref": "6",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.982964,
+          37.5656188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404901190",
+      "properties": {
+        "@id": "node/3404901190",
+        "description": "을지로입구역 8번 출구",
+        "description:en": "Euljiro 1(il)-ga Station gate 8",
+        "description:ja": "乙支路入口駅 8番 出口",
+        "description:ko": "을지로입구역 8번 출구",
+        "railway": "subway_entrance",
+        "ref": "8",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9820068,
+          37.565895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404901191",
+      "properties": {
+        "@id": "node/3404901191",
+        "description": "을지로입구역 7번 출구",
+        "description:en": "Euljiro 1(il)-ga Station gate 7",
+        "description:ja": "乙支路入口駅 7番 出口",
+        "description:ko": "을지로입구역 7번 출구",
+        "railway": "subway_entrance",
+        "ref": "7",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9823518,
+          37.5654717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404904655",
+      "properties": {
+        "@id": "node/3404904655",
+        "description": "시청역 5번 출구",
+        "description:en": "Exit 5 of City Hall Station",
+        "description:ja": "市庁駅5番出口",
+        "description:ko": "시청역 5번 출구",
+        "railway": "subway_entrance",
+        "ref": "5",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9774322,
+          37.5661121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404904656",
+      "properties": {
+        "@id": "node/3404904656",
+        "description": "시청역 4번 출구",
+        "description:en": "Exit 4 of City Hall Station",
+        "description:ja": "市庁駅4番出口",
+        "description:ko": "시청역 4번 출구",
+        "railway": "subway_entrance",
+        "ref": "4",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9773672,
+          37.5668639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404904657",
+      "properties": {
+        "@id": "node/3404904657",
+        "description": "시청역 3번 출구",
+        "description:en": "Exit 3 of City Hall Station",
+        "description:ja": "市庁駅3番出口",
+        "description:ko": "시청역 3번 출구",
+        "railway": "subway_entrance",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9768675,
+          37.5659896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404904658",
+      "properties": {
+        "@id": "node/3404904658",
+        "description": "시청역 2번 출구",
+        "description:en": "Exit 2 of City Hall Station",
+        "description:ja": "市庁駅2番出口",
+        "description:ko": "시청역 2번 출구",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9768633,
+          37.5657675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404904659",
+      "properties": {
+        "@id": "node/3404904659",
+        "description": "시청역 6번 출구",
+        "description:en": "City Hall Station gate 6",
+        "railway": "subway_entrance",
+        "ref": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9776959,
+          37.5648345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404904660",
+      "properties": {
+        "@id": "node/3404904660",
+        "description": "시청역 7번 출구",
+        "description:en": "City Hall Station gate 7",
+        "railway": "subway_entrance",
+        "ref": "7",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.977343,
+          37.5642854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404904661",
+      "properties": {
+        "@id": "node/3404904661",
+        "description": "시청역 1번 출구",
+        "description:en": "City Hall Station gate 1",
+        "description:ja": "市庁駅 1番出口",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9767249,
+          37.564607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404904662",
+      "properties": {
+        "@id": "node/3404904662",
+        "description": "시청역 12번 출구",
+        "description:en": "City Hall Station gate 12",
+        "description:ja": "市庁駅 12番出口",
+        "railway": "subway_entrance",
+        "ref": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9763923,
+          37.5642244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404904663",
+      "properties": {
+        "@id": "node/3404904663",
+        "description": "시청역 11번출구",
+        "description:en": "City Hall Station gate 11",
+        "description:ja": "市庁駅 11番出口",
+        "railway": "subway_entrance",
+        "ref": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9756186,
+          37.5638321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404904664",
+      "properties": {
+        "@id": "node/3404904664",
+        "description": "시청역 8번 출구",
+        "description:en": "City Hall Station gate 8",
+        "description:ja": "市庁駅 8番出口",
+        "railway": "subway_entrance",
+        "ref": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9764756,
+          37.5637124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404904665",
+      "properties": {
+        "@id": "node/3404904665",
+        "description": "시청역 10번출구",
+        "description:en": "City Hall Station gate 10",
+        "description:ja": "市庁駅 10番出口",
+        "railway": "subway_entrance",
+        "ref": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9739922,
+          37.5633133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404904666",
+      "properties": {
+        "@id": "node/3404904666",
+        "description": "시청역 9번출구",
+        "description:en": "City Hall Station gate 9",
+        "description:ja": "市庁駅 9番出口",
+        "railway": "subway_entrance",
+        "ref": "9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9740532,
+          37.5628918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404991263",
+      "properties": {
+        "@id": "node/3404991263",
+        "description": "종각역 1번출구",
+        "description:en": "Jonggak Station gate 1",
+        "description:ja": "鐘閣駅 1番出口",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9824446,
+          37.5703676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404991264",
+      "properties": {
+        "@id": "node/3404991264",
+        "description": "종각역 2번출구",
+        "description:en": "Jonggak Station gate 2",
+        "description:ja": "鐘閣駅 2番出口",
+        "railway": "subway_entrance",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9828605,
+          37.5709039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3410007706",
+      "properties": {
+        "@id": "node/3410007706",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "한국은행앞",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "502",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9796596,
+          37.561433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3460606096",
+      "properties": {
+        "@id": "node/3460606096",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9785258,
+          37.5664702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3739883637",
+      "properties": {
+        "@id": "node/3739883637",
+        "addr:city": "서울특별시",
+        "addr:district": "종로구",
+        "addr:housenumber": "36",
+        "addr:postcode": "03173",
+        "addr:street": "새문안로3길",
+        "addr:subdistrict": "내수동",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9729196,
+          37.5735541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3739883638",
+      "properties": {
+        "@id": "node/3739883638",
+        "addr:city": "서울특별시",
+        "addr:district": "종로구",
+        "addr:housenumber": "42",
+        "addr:postcode": "03173",
+        "addr:street": "사직로8길",
+        "addr:subdistrict": "내수동",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9731797,
+          37.5739513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3739883639",
+      "properties": {
+        "@id": "node/3739883639",
+        "addr:city": "서울특별시",
+        "addr:district": "종로구",
+        "addr:housenumber": "30",
+        "addr:postcode": "03173",
+        "addr:street": "새문안로3길",
+        "addr:subdistrict": "내수동",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9729024,
+          37.5728814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3739926270",
+      "properties": {
+        "@id": "node/3739926270",
+        "entrance": "main",
+        "name": "입구"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.979325,
+          37.5796199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3739926970",
+      "properties": {
+        "@id": "node/3739926970",
+        "access": "permissive",
+        "barrier": "gate",
+        "entrance": "yes",
+        "foot": "yes",
+        "free": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9779228,
+          37.5812784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3739926988",
+      "properties": {
+        "@id": "node/3739926988",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9792155,
+          37.5814407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3739926991",
+      "properties": {
+        "@id": "node/3739926991",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9785558,
+          37.5814919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3792105191",
+      "properties": {
+        "@id": "node/3792105191",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9764805,
+          37.5789915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3806615943",
+      "properties": {
+        "@id": "node/3806615943",
+        "entrance": "yes",
+        "name:en": "West Entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9778217,
+          37.566675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3806615944",
+      "properties": {
+        "@id": "node/3806615944",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9766102,
+          37.5650153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3825649166",
+      "properties": {
+        "@id": "node/3825649166",
+        "description": "시청역 지하보도 출구",
+        "note": "no ref assigned for this entrance",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9772711,
+          37.5670879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3841809500",
+      "properties": {
+        "@id": "node/3841809500",
+        "description": "광화문역 9번출구",
+        "level": "-1",
+        "railway": "subway_entrance",
+        "ref": "9",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9769417,
+          37.5713027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3841809530",
+      "properties": {
+        "@id": "node/3841809530",
+        "entrance": "exit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.976945,
+          37.572928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3851434709",
+      "properties": {
+        "@id": "node/3851434709",
+        "addr:city": "서울특별시",
+        "addr:district": "중구",
+        "entrance": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.974244,
+          37.5662717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3851615876",
+      "properties": {
+        "@id": "node/3851615876",
+        "entrance": "yes",
+        "foot": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9764553,
+          37.5786806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3851615895",
+      "properties": {
+        "@id": "node/3851615895",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9763934,
+          37.5789942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4276316587",
+      "properties": {
+        "@id": "node/4276316587",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "남산밀레니엄힐튼호텔",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9766469,
+          37.5555154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4356648147",
+      "properties": {
+        "@id": "node/4356648147",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "북창동.남대문시장",
+        "name:ko": "북창동.남대문시장",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "02-283",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9770364,
+          37.5608706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4356648148",
+      "properties": {
+        "@id": "node/4356648148",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "7",
+        "name": "서울역버스환승센터.강우규의거터(7번승강장)",
+        "name:en": "Seoul station bus transfer center",
+        "name:ja": "ソウル駅バス乗り換えセンター",
+        "name:ko": "서울역버스환승센터.강우규의거터(7번승강장)",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "02007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9729549,
+          37.5553863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4356648149",
+      "properties": {
+        "@id": "node/4356648149",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "명동국민은행앞",
+        "name:ko": "명동국민은행앞",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9822418,
+          37.5638003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4424489347",
+      "properties": {
+        "@id": "node/4424489347",
+        "description": "시청역 (시티스타몰 2번출구)",
+        "public_transport": "entrance",
+        "railway": "subway_entrance",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9793633,
+          37.566076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4424489403",
+      "properties": {
+        "@id": "node/4424489403",
+        "description": "시청역 (시티스타몰 1번출구)",
+        "public_transport": "entrance",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9792243,
+          37.5661749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4439936686",
+      "properties": {
+        "@id": "node/4439936686",
+        "entrance": "yes",
+        "foot": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9777055,
+          37.5781355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4439936687",
+      "properties": {
+        "@id": "node/4439936687",
+        "entrance": "yes",
+        "foot": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9774988,
+          37.5781399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4439937692",
+      "properties": {
+        "@id": "node/4439937692",
+        "entrance": "yes",
+        "foot": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9776291,
+          37.5785067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4439937693",
+      "properties": {
+        "@id": "node/4439937693",
+        "entrance": "yes",
+        "foot": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9775183,
+          37.5785095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4439937699",
+      "properties": {
+        "@id": "node/4439937699",
+        "entrance": "yes",
+        "foot": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9776414,
+          37.578733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4439937701",
+      "properties": {
+        "@id": "node/4439937701",
+        "entrance": "yes",
+        "foot": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9775298,
+          37.5787355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4439983128",
+      "properties": {
+        "@id": "node/4439983128",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9741219,
+          37.5787656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4439983144",
+      "properties": {
+        "@id": "node/4439983144",
+        "entrance": "yes",
+        "name": "지자고",
+        "name:en": "Jijago",
+        "name:ko": "지자고"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9766019,
+          37.5789315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4439983145",
+      "properties": {
+        "@id": "node/4439983145",
+        "entrance": "yes",
+        "name": "천자고",
+        "name:en": "Cheonjago",
+        "name:ko": "천자고"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9765042,
+          37.5789349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4439983146",
+      "properties": {
+        "@id": "node/4439983146",
+        "entrance": "yes",
+        "name": "우자고",
+        "name:en": "Ujago",
+        "name:ko": "우자고"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9768951,
+          37.5789215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4439983147",
+      "properties": {
+        "@id": "node/4439983147",
+        "entrance": "yes",
+        "name": "현자고",
+        "name:en": "Hyeonjago",
+        "name:ko": "현자고"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9766996,
+          37.5789282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4439983148",
+      "properties": {
+        "@id": "node/4439983148",
+        "entrance": "yes",
+        "name": "황자고",
+        "name:en": "Hwangjago",
+        "name:ko": "황자고"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9767973,
+          37.5789249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4439989956",
+      "properties": {
+        "@id": "node/4439989956",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9769904,
+          37.5791849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4439989958",
+      "properties": {
+        "@id": "node/4439989958",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9766572,
+          37.5792012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4439989959",
+      "properties": {
+        "@id": "node/4439989959",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.976996,
+          37.5792498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4439989960",
+      "properties": {
+        "@id": "node/4439989960",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9766605,
+          37.579254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4440001226",
+      "properties": {
+        "@id": "node/4440001226",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9765031,
+          37.5794487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4440001252",
+      "properties": {
+        "@id": "node/4440001252",
+        "entrance": "yes",
+        "name:ja": "及成門"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9764124,
+          37.5794495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4440041781",
+      "properties": {
+        "@id": "node/4440041781",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9768171,
+          37.579793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4440041804",
+      "properties": {
+        "@id": "node/4440041804",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97645,
+          37.5798643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4440041932",
+      "properties": {
+        "@id": "node/4440041932",
+        "entrance": "yes",
+        "name:ja": "元吉軒"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9772989,
+          37.579805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4440041933",
+      "properties": {
+        "@id": "node/4440041933",
+        "entrance": "yes",
+        "name:ja": "及順堂"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9768157,
+          37.5797588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4440041936",
+      "properties": {
+        "@id": "node/4440041936",
+        "entrance": "yes",
+        "name:ja": "大裁門"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9763721,
+          37.5798665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4440041937",
+      "properties": {
+        "@id": "node/4440041937",
+        "entrance": "yes",
+        "name:ja": "財成門"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9767327,
+          37.5797945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4440442956",
+      "properties": {
+        "@id": "node/4440442956",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9775573,
+          37.5764972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4440585438",
+      "properties": {
+        "@id": "node/4440585438",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9765031,
+          37.581409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4440585440",
+      "properties": {
+        "@id": "node/4440585440",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9764244,
+          37.5814091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4442215789",
+      "properties": {
+        "@id": "node/4442215789",
+        "access": "yes",
+        "entrance": "yes",
+        "foot": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9783976,
+          37.580085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4442215790",
+      "properties": {
+        "@id": "node/4442215790",
+        "access": "yes",
+        "entrance": "yes",
+        "foot": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9783246,
+          37.5800858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4442231973",
+      "properties": {
+        "@id": "node/4442231973",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9780876,
+          37.5799998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4442231974",
+      "properties": {
+        "@id": "node/4442231974",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9780885,
+          37.5800581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4448593924",
+      "properties": {
+        "@id": "node/4448593924",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9785158,
+          37.5786249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4448593926",
+      "properties": {
+        "@id": "node/4448593926",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9783857,
+          37.5786931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4448593927",
+      "properties": {
+        "@id": "node/4448593927",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9783883,
+          37.5787497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4448593930",
+      "properties": {
+        "@id": "node/4448593930",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9785224,
+          37.5787694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4448593935",
+      "properties": {
+        "@id": "node/4448593935",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9783904,
+          37.578803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4448593936",
+      "properties": {
+        "@id": "node/4448593936",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9783923,
+          37.5788437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4448593944",
+      "properties": {
+        "@id": "node/4448593944",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9784011,
+          37.579076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4448593947",
+      "properties": {
+        "@id": "node/4448593947",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9784031,
+          37.5791201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4448594044",
+      "properties": {
+        "@id": "node/4448594044",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9782747,
+          37.5795985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4448594048",
+      "properties": {
+        "@id": "node/4448594048",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.978278,
+          37.5796394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4448594099",
+      "properties": {
+        "@id": "node/4448594099",
+        "entrance": "yes",
+        "name:ja": "戴極門"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9785677,
+          37.5786234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4448594100",
+      "properties": {
+        "@id": "node/4448594100",
+        "entrance": "yes",
+        "name:ja": "求賢門"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9785743,
+          37.5787679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4449004593",
+      "properties": {
+        "@id": "node/4449004593",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name:en": "Shuttle Bus",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9794384,
+          37.5769652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4449045890",
+      "properties": {
+        "@id": "node/4449045890",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name:en": "Shuttle bus",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9797586,
+          37.5792677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4449755787",
+      "properties": {
+        "@id": "node/4449755787",
+        "description": "시청역 (시티스타몰 3번출구)",
+        "public_transport": "entrance",
+        "railway": "subway_entrance",
+        "ref": "3",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9790805,
+          37.5657553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4450129341",
+      "properties": {
+        "@id": "node/4450129341",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9686905,
+          37.5756572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4450129348",
+      "properties": {
+        "@id": "node/4450129348",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.968606,
+          37.5757029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5197260361",
+      "properties": {
+        "@id": "node/5197260361",
+        "description": "광화문역 2번출구",
+        "description:en": "Gwanghwamun Station Exit 2",
+        "description:ja": "光化門駅 2番出口",
+        "railway": "subway_entrance",
+        "ref": "2",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9773857,
+          37.5724998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5268237648",
+      "properties": {
+        "@id": "node/5268237648",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "광화문한국통신.KT",
+        "name:en": "Gwanghwamun Korea CommunicationsKT",
+        "name:ja": "光化門(クァンファムン)韓国通信。KT",
+        "name:ko": "광화문한국통신.KT",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "서울01599",
+        "shelter": "no",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9773784,
+          37.5720711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5268237649",
+      "properties": {
+        "@id": "node/5268237649",
+        "description": "경복궁역 7번출구",
+        "description:en": "Gyeongbokgung Station Exit7",
+        "description:ja": "景福宮駅 7番出口",
+        "railway": "subway_entrance",
+        "ref": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9722083,
+          37.5757392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5348913429",
+      "properties": {
+        "@id": "node/5348913429",
+        "railway": "subway_entrance",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9716427,
+          37.5564412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5549718798",
+      "properties": {
+        "@id": "node/5549718798",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "남대문시장.회현역",
+        "name:ko": "남대문시장.회현역",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "104;421;463;471;505;507;604;7011;7012A;7013B;6001;03;N61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9784339,
+          37.5585485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5549718799",
+      "properties": {
+        "@id": "node/5549718799",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "서울역9번출구.서울스퀘어앞",
+        "name:ja": "ソウルスクエア前",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "421;505;507;6001;03",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9731888,
+          37.5553906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5555890527",
+      "properties": {
+        "@id": "node/5555890527",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "남대문경찰서.서울역10번출구",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "02218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9737449,
+          37.5540144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5589798218",
+      "properties": {
+        "@id": "node/5589798218",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "3",
+        "name": "서울역버스환승센터(3번승강장)",
+        "name:en": "Seoul station bus transfer center",
+        "name:ja": "ソウル駅バス乗り換えセンター",
+        "name:ko": "서울역버스환승센터(3번승강장)",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "02003",
+        "shelter": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9722327,
+          37.5549002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5589801221",
+      "properties": {
+        "@id": "node/5589801221",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "4",
+        "name": "서울역버스환승센터(4번승강장)",
+        "name:en": "Seoul station bus transfer center",
+        "name:ja": "ソウル駅バス乗り換えセンター",
+        "name:ko": "서울역버스환승센터(4번승강장)",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "02004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9725531,
+          37.5553051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5589801222",
+      "properties": {
+        "@id": "node/5589801222",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "5",
+        "name": "서울역버스환승센터(5번승강장)(중)",
+        "name:en": "Seoul station bus transfer center",
+        "name:ja": "ソウル駅バス乗り換えセンター",
+        "name:ko": "서울역버스환승센터(5번승강장)(중)",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "02005",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9726401,
+          37.5551784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5589801223",
+      "properties": {
+        "@id": "node/5589801223",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "6",
+        "name": "서울역버스환승센터(6번승강장)(중)",
+        "name:en": "Seoul station bus transfer center",
+        "name:ja": "ソウル駅バス乗り換えセンター",
+        "name:ko": "서울역버스환승센터(6번승강장)(중)",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "02006",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9727383,
+          37.5554105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5779812094",
+      "properties": {
+        "@id": "node/5779812094",
+        "description": "경복궁역 2번출구",
+        "description:en": "Gyeongbokgung Station Exit 2",
+        "description:ja": "景福宮駅 2番出口",
+        "railway": "subway_entrance",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9724088,
+          37.5763866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5779812095",
+      "properties": {
+        "@id": "node/5779812095",
+        "description": "경복궁역 4번출구",
+        "description:en": "Gyeongbokgung Station Exit4",
+        "description:ja": "景福宮駅 4番出口",
+        "railway": "subway_entrance",
+        "ref": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9731471,
+          37.5759692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5871218821",
+      "properties": {
+        "@id": "node/5871218821",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "서울역사박물관.경희궁앞(중)",
+        "name:en": "Seoul History Museum.Gyeonghuigung Palace",
+        "name:ja": "ソウル歴史博物館. 慶熙宮前",
+        "name:ko": "서울역사박물관.경희궁앞",
+        "name:ko-Latn": "Seoulyeoksabangmulgwan",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "01007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9704044,
+          37.5691119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5961230291",
+      "properties": {
+        "@id": "node/5961230291",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "서울역공항철도15번출구.국립극단",
+        "name:ko": "서울역공항철도15번출구.국립극단",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "03345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9689325,
+          37.5530779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673823017",
+      "properties": {
+        "@id": "node/6673823017",
+        "entrance": "yes",
+        "name": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9821883,
+          37.5634702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673823019",
+      "properties": {
+        "@id": "node/6673823019",
+        "entrance": "yes",
+        "name": "14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9820038,
+          37.56307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673823021",
+      "properties": {
+        "@id": "node/6673823021",
+        "entrance": "yes",
+        "name": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9817115,
+          37.5631476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673823023",
+      "properties": {
+        "@id": "node/6673823023",
+        "entrance": "yes",
+        "name": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9818858,
+          37.5635941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673823027",
+      "properties": {
+        "@id": "node/6673823027",
+        "entrance": "yes",
+        "name": "16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9818938,
+          37.5638386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673823029",
+      "properties": {
+        "@id": "node/6673823029",
+        "entrance": "yes",
+        "name": "17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9819394,
+          37.5641065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673823032",
+      "properties": {
+        "@id": "node/6673823032",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9817061,
+          37.5635059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673823033",
+      "properties": {
+        "@id": "node/6673823033",
+        "entrance": "yes",
+        "name": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.982408,
+          37.5642105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673823035",
+      "properties": {
+        "@id": "node/6673823035",
+        "entrance": "yes",
+        "name": "18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9822157,
+          37.5637748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673823049",
+      "properties": {
+        "@id": "node/6673823049",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9823828,
+          37.5634798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673823050",
+      "properties": {
+        "@id": "node/6673823050",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9817539,
+          37.5640182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673823051",
+      "properties": {
+        "@id": "node/6673823051",
+        "entrance": "yes",
+        "name": "9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9808003,
+          37.5638471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673823053",
+      "properties": {
+        "@id": "node/6673823053",
+        "entrance": "yes",
+        "name": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9804637,
+          37.5638875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673823057",
+      "properties": {
+        "@id": "node/6673823057",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9807292,
+          37.5640756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673823061",
+      "properties": {
+        "@id": "node/6673823061",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9815473,
+          37.5639119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673823063",
+      "properties": {
+        "@id": "node/6673823063",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9815205,
+          37.5636419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673823066",
+      "properties": {
+        "@id": "node/6673823066",
+        "entrance": "yes",
+        "name": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9796242,
+          37.5639927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673823069",
+      "properties": {
+        "@id": "node/6673823069",
+        "entrance": "yes",
+        "name": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97971,
+          37.5638226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673823072",
+      "properties": {
+        "@id": "node/6673823072",
+        "entrance": "yes",
+        "name": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9796886,
+          37.5637504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6676507755",
+      "properties": {
+        "@id": "node/6676507755",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.981227,
+          37.5623712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6676507757",
+      "properties": {
+        "@id": "node/6676507757",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9811704,
+          37.5624709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6687090867",
+      "properties": {
+        "@id": "node/6687090867",
+        "entrance": "yes",
+        "name": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9821191,
+          37.5654415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6687090870",
+      "properties": {
+        "@id": "node/6687090870",
+        "entrance": "yes",
+        "name": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.982203,
+          37.5653265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6687090873",
+      "properties": {
+        "@id": "node/6687090873",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9821664,
+          37.5650254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6687146093",
+      "properties": {
+        "@id": "node/6687146093",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9818086,
+          37.5641034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6687146111",
+      "properties": {
+        "@id": "node/6687146111",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9817837,
+          37.5636828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6698277111",
+      "properties": {
+        "@id": "node/6698277111",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "남산공원.구힐튼호텔",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9766429,
+          37.556326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7171543052",
+      "properties": {
+        "@id": "node/7171543052",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9808123,
+          37.5619108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7171543059",
+      "properties": {
+        "@id": "node/7171543059",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9807665,
+          37.5618766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7171543073",
+      "properties": {
+        "@id": "node/7171543073",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9807961,
+          37.5618786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7195722887",
+      "properties": {
+        "@id": "node/7195722887",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9787093,
+          37.5661702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7195722907",
+      "properties": {
+        "@id": "node/7195722907",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9764939,
+          37.563721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7209102537",
+      "properties": {
+        "@id": "node/7209102537",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9687497,
+          37.5774156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7212718658",
+      "properties": {
+        "@id": "node/7212718658",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9789652,
+          37.5640728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7217280970",
+      "properties": {
+        "@id": "node/7217280970",
+        "addr:city": "서울특별시",
+        "addr:district": "중구",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9778845,
+          37.5661807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7255775298",
+      "properties": {
+        "@id": "node/7255775298",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9748123,
+          37.5657291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7295706178",
+      "properties": {
+        "@id": "node/7295706178",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9746064,
+          37.5563075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7295706180",
+      "properties": {
+        "@id": "node/7295706180",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9745077,
+          37.5562691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7342770452",
+      "properties": {
+        "@id": "node/7342770452",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.977283,
+          37.5543143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8212227135",
+      "properties": {
+        "@id": "node/8212227135",
+        "description": "을지로입구역 1-1번 출구",
+        "description:en": "Euljiro 1(il)-ga Station gate 1-1",
+        "description:ja": "乙支路入口駅 1-1番 出口",
+        "railway": "subway_entrance",
+        "ref": "1-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9811291,
+          37.5661053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8218148406",
+      "properties": {
+        "@id": "node/8218148406",
+        "description": "경복궁역 3-1번출구",
+        "description:en": "Gyeongbokgung Station Exit 3-1",
+        "description:ja": "景福宮駅 3-1番出口",
+        "railway": "subway_entrance",
+        "ref": "3-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9727733,
+          37.5760187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8410454835",
+      "properties": {
+        "@id": "node/8410454835",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "시청덕수궁",
+        "name:en": "City Hall Deoksugung",
+        "name:ja": "市庁徳寿宮",
+        "name:ko": "시청덕수궁",
+        "name:ko-Latn": "Sicheongdeoksugung",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "route_ref": "605",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9770009,
+          37.5659191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9020369747",
+      "properties": {
+        "@id": "node/9020369747",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9738096,
+          37.562175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9021551760",
+      "properties": {
+        "@id": "node/9021551760",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.973176,
+          37.5674791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9025659041",
+      "properties": {
+        "@id": "node/9025659041",
+        "entrance": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9686947,
+          37.5616519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9025659042",
+      "properties": {
+        "@id": "node/9025659042",
+        "entrance": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9702214,
+          37.5596654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9653155800",
+      "properties": {
+        "@id": "node/9653155800",
+        "entrance": "main",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.980159,
+          37.5533737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9796362728",
+      "properties": {
+        "@id": "node/9796362728",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "남산도서관.용산도서관",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "03347"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9818461,
+          37.5523436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10128702879",
+      "properties": {
+        "@id": "node/10128702879",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.96945,
+          37.5558881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10128702880",
+      "properties": {
+        "@id": "node/10128702880",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9707891,
+          37.5551292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10198783518",
+      "properties": {
+        "@id": "node/10198783518",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "남산공원.구힐튼호텔",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9766785,
+          37.5565747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10210149041",
+      "properties": {
+        "@id": "node/10210149041",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9776728,
+          37.5738377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10294583500",
+      "properties": {
+        "@id": "node/10294583500",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.982593,
+          37.5635383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10296582591",
+      "properties": {
+        "@id": "node/10296582591",
+        "entrance": "yes",
+        "ref": "교보문고"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9781513,
+          37.5707292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10316011968",
+      "properties": {
+        "@id": "node/10316011968",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9773571,
+          37.5610207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10634544945",
+      "properties": {
+        "@id": "node/10634544945",
+        "entrance": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9733822,
+          37.5569399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10634544946",
+      "properties": {
+        "@id": "node/10634544946",
+        "entrance": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9737365,
+          37.557133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10749932805",
+      "properties": {
+        "@id": "node/10749932805",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "경복궁.국립민속박물관",
+        "name:en": "Gyeongbokgung Palace Folk Museum",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.979604,
+          37.5793838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11233114424",
+      "properties": {
+        "@id": "node/11233114424",
+        "entrance": "yes",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9786427,
+          37.5692437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11233114434",
+      "properties": {
+        "@id": "node/11233114434",
+        "entrance": "yes",
+        "ref": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9800485,
+          37.5689685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11414286291",
+      "properties": {
+        "@id": "node/11414286291",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "시청서소문2청사",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9762782,
+          37.5628213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11452053345",
+      "properties": {
+        "@id": "node/11452053345",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "경찰청.동북아역사재단(중)",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "13039",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9692613,
+          37.562497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11452053346",
+      "properties": {
+        "@id": "node/11452053346",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "프레이저플레이스",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9691856,
+          37.5628934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11452053351",
+      "properties": {
+        "@id": "node/11452053351",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "경찰청.동북아역사재단(중)",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9680407,
+          37.5642787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11468911563",
+      "properties": {
+        "@id": "node/11468911563",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.979946,
+          37.578791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11565842574",
+      "properties": {
+        "@id": "node/11565842574",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "사직공원.경복궁영입구",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9688725,
+          37.5763237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11565842575",
+      "properties": {
+        "@id": "node/11565842575",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "사직단.사직근린공원",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9681454,
+          37.5752611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11565842588",
+      "properties": {
+        "@id": "node/11565842588",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "강북성심병원",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9684325,
+          37.5685329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11566498788",
+      "properties": {
+        "@id": "node/11566498788",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "정독도서관",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9800134,
+          37.5802654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11566498789",
+      "properties": {
+        "@id": "node/11566498789",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "경복궁.국립민속박물관",
+        "name:en": "Gyeongbokgung Palace Folk Museum",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9796969,
+          37.5796626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11566498790",
+      "properties": {
+        "@id": "node/11566498790",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "경복궁",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9794375,
+          37.5769074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11566498791",
+      "properties": {
+        "@id": "node/11566498791",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "법련사",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9796011,
+          37.5767472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11566498792",
+      "properties": {
+        "@id": "node/11566498792",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "check_date:bench": "2025-09-29",
+        "highway": "bus_stop",
+        "name": "세종문화회관",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9770274,
+          37.5719072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12151919476",
+      "properties": {
+        "@id": "node/12151919476",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9687994,
+          37.57771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12152864722",
+      "properties": {
+        "@id": "node/12152864722",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "롯데백화점",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9821555,
+          37.5641827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12152864723",
+      "properties": {
+        "@id": "node/12152864723",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "명동입구B",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9823129,
+          37.5640632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12152864724",
+      "properties": {
+        "@id": "node/12152864724",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "명동입구",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9824367,
+          37.5643157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12152864725",
+      "properties": {
+        "@id": "node/12152864725",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "명동입구",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9822459,
+          37.5638335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12152864726",
+      "properties": {
+        "@id": "node/12152864726",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "이비스엠배서더호텔",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.98229,
+          37.5640072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12152864727",
+      "properties": {
+        "@id": "node/12152864727",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "남대문시장",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9784979,
+          37.5610095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12152864728",
+      "properties": {
+        "@id": "node/12152864728",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "숭례문",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "02-122",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9739011,
+          37.5583632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12152864729",
+      "properties": {
+        "@id": "node/12152864729",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "숭례문.서울역4번출구",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9735784,
+          37.558015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12192727111",
+      "properties": {
+        "@id": "node/12192727111",
+        "entrance": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9689527,
+          37.5780627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12192730045",
+      "properties": {
+        "@id": "node/12192730045",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9688875,
+          37.5778079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12192730046",
+      "properties": {
+        "@id": "node/12192730046",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9688872,
+          37.5778517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12192730063",
+      "properties": {
+        "@id": "node/12192730063",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9687861,
+          37.5780307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12192730084",
+      "properties": {
+        "@id": "node/12192730084",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9684384,
+          37.5788258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12192734218",
+      "properties": {
+        "@id": "node/12192734218",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9688819,
+          37.5779889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12192734221",
+      "properties": {
+        "@id": "node/12192734221",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9689094,
+          37.5777753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253830",
+      "properties": {
+        "@id": "node/12234253830",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "시청앞.덕수",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9769966,
+          37.5660429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253831",
+      "properties": {
+        "@id": "node/12234253831",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "시청역",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9769936,
+          37.566127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253832",
+      "properties": {
+        "@id": "node/12234253832",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "덕수궁",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9769896,
+          37.5662412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253833",
+      "properties": {
+        "@id": "node/12234253833",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "서울광장",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "02641",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9787571,
+          37.5653708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253834",
+      "properties": {
+        "@id": "node/12234253834",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "을지로입구역.더그랜드롯데서울호텔",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.979984,
+          37.5658896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253835",
+      "properties": {
+        "@id": "node/12234253835",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "을지로입구",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9808799,
+          37.566088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253836",
+      "properties": {
+        "@id": "node/12234253836",
+        "bus": "yes",
+        "departures_board": "realtime",
+        "highway": "bus_stop",
+        "name": "서울시청",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9805208,
+          37.5660789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253837",
+      "properties": {
+        "@id": "node/12234253837",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "청계광장.광화문역5번출구",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9772967,
+          37.5683961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253838",
+      "properties": {
+        "@id": "node/12234253838",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "조선일보",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9769654,
+          37.5688234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253839",
+      "properties": {
+        "@id": "node/12234253839",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "광화문",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9769735,
+          37.568732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253840",
+      "properties": {
+        "@id": "node/12234253840",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "시청역1호선.서울시청",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.977298,
+          37.5673863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253842",
+      "properties": {
+        "@id": "node/12234253842",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "서소문KAL빌딩",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9749913,
+          37.5634679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253843",
+      "properties": {
+        "@id": "node/12234253843",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "신한은행본점",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9758738,
+          37.5615948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253844",
+      "properties": {
+        "@id": "node/12234253844",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "프레이저플레이스남대문",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9758094,
+          37.5613949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253845",
+      "properties": {
+        "@id": "node/12234253845",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "프레이저플레이스남대문",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9760883,
+          37.5613503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253846",
+      "properties": {
+        "@id": "node/12234253846",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "숭례문앞",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9761422,
+          37.5614995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253847",
+      "properties": {
+        "@id": "node/12234253847",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "남대문시",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.975622,
+          37.5609623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253848",
+      "properties": {
+        "@id": "node/12234253848",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "시청역더플라자호텔",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9778671,
+          37.5641501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253887",
+      "properties": {
+        "@id": "node/12234253887",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "광화문역",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "01009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9765911,
+          37.5701729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253888",
+      "properties": {
+        "@id": "node/12234253888",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "광화문역",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "01010",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9777455,
+          37.5702179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253889",
+      "properties": {
+        "@id": "node/12234253889",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "종로1가",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.979439,
+          37.5702783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253890",
+      "properties": {
+        "@id": "node/12234253890",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "종로1가.종각역(중)",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "01011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9800569,
+          37.5701774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234253891",
+      "properties": {
+        "@id": "node/12234253891",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "종로1가.종각역(중)",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "01012",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9814539,
+          37.5702439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12234346936",
+      "properties": {
+        "@id": "node/12234346936",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "경찰청",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.968459,
+          37.5633516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12282210819",
+      "properties": {
+        "@id": "node/12282210819",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "서울역사박물관.경희궁앞",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "01008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9705242,
+          37.5693193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12283827386",
+      "properties": {
+        "@id": "node/12283827386",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "서울경찰청.경복궁역7번출구",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform",
+        "ref": "01127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9712103,
+          37.5758912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12811063801",
+      "properties": {
+        "@id": "node/12811063801",
+        "highway": "bus_stop",
+        "name:en": "Seoul City Tour Bus - Tongin Market",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9709803,
+          37.5806261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13005769409",
+      "properties": {
+        "@id": "node/13005769409",
+        "entrance": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9745081,
+          37.5664207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13005769412",
+      "properties": {
+        "@id": "node/13005769412",
+        "entrance": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9739716,
+          37.5664124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13132534005",
+      "properties": {
+        "@id": "node/13132534005",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "강북삼성병원.경교장",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9688316,
+          37.5681724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13530650135",
+      "properties": {
+        "@id": "node/13530650135",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9694705,
+          37.575781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13711391155",
+      "properties": {
+        "@id": "node/13711391155",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.971977,
+          37.5764989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13711391156",
+      "properties": {
+        "@id": "node/13711391156",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9720229,
+          37.5765027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13711391161",
+      "properties": {
+        "@id": "node/13711391161",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9720541,
+          37.5765044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13711415307",
+      "properties": {
+        "@id": "node/13711415307",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "연세대 경복궁 셔틀버스 정류장",
+        "operator": "연세대학교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9709233,
+          37.5762072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13911987402",
+      "properties": {
+        "@id": "node/13911987402",
+        "amenity": "shelter",
+        "name:en": "Magnolia Rest Area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9742043,
+          37.556597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13925667504",
+      "properties": {
+        "@id": "node/13925667504",
+        "amenity": "shelter",
+        "name:en": "Hydrangea Observatory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9730696,
+          37.5565795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13948963801",
+      "properties": {
+        "@id": "node/13948963801",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9810651,
+          37.5520503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13948974301",
+      "properties": {
+        "@id": "node/13948974301",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9792032,
+          37.5541713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14157223990",
+      "properties": {
+        "@id": "node/14157223990",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9772554,
+          37.580711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14257677947",
+      "properties": {
+        "@id": "node/14257677947",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "시청역더플라자호텔",
+        "network": "서울특별시 시내버스",
+        "network:ko": "서울특별시 시내버스",
+        "network:wikidata": "Q3724007",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.977995,
+          37.5648844
+        ]
+      }
+    }
+  ]
+}
