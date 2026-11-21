@@ -81,6 +81,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
+      { name: "theme-color", content: "#18785b" },
       { title: "ROUTER" },
       { name: "description", content: "비 노출이 적은 종로 보행 경로를 비교하는 지도 서비스" },
       { name: "author", content: "Lovable" },
@@ -97,6 +98,8 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
         href: appCss,
       },
       { rel: "icon", href: "/favicon.ico", type: "image/x-icon" },
+      { rel: "manifest", href: "/manifest.webmanifest" },
+      { rel: "apple-touch-icon", href: "/icons/router-180.png" },
     ],
   }),
   shellComponent: RootShell,
@@ -106,6 +109,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
 });
 
 function RootShell({ children }: { children: ReactNode }) {
+  useEffect(() => {
+    if (import.meta.env.PROD && "serviceWorker" in navigator) {
+      void navigator.serviceWorker.register("/sw.js").catch((error: unknown) => {
+        console.warn("ROUTER service worker registration failed.", error);
+      });
+    }
+  }, []);
+
   return (
     <html lang="ko">
       <head>
